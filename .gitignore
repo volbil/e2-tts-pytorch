@@ -162,6 +162,10 @@ cython_debug/
 #.idea/
 # 
 
+# Model files
 runs/
 e2tts.txt
 e2tts.pt
+
+# Misc
+.DS_Store
